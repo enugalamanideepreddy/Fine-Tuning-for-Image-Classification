@@ -1,3 +1,3 @@
 # AlexNet
 
-## I have implemented AlexNet model for pet classificaton problem
+## I have implemented AlexNet and ResNet model for pet classificaton problem
